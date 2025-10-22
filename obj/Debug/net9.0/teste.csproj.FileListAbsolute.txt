@@ -12,3 +12,4 @@ C:\Users\Windows 10\Documents\projetos\autentica\obj\Debug\net9.0\refint\teste.d
 C:\Users\Windows 10\Documents\projetos\autentica\obj\Debug\net9.0\teste.pdb
 C:\Users\Windows 10\Documents\projetos\autentica\obj\Debug\net9.0\teste.genruntimeconfig.cache
 C:\Users\Windows 10\Documents\projetos\autentica\obj\Debug\net9.0\ref\teste.dll
+C:\Users\Windows 10\Documents\projetos\autentica\obj\Debug\net9.0\teste.sourcelink.json
